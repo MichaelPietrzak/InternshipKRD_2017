@@ -1,0 +1,13 @@
+/* COLORS 
+/* --------------------------------------- */
+/* --------------------------------------- */
+a,
+.tp-caption a.btn:hover {
+  color: #fff;
+}
+.top-nav-collapse {
+  background: #cc1915;
+}
+footer {
+  background-color: #111;
+}
